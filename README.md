@@ -1,2 +1,2 @@
 # migration-pro-homework
-database (name, password and etc.) is configured in app>>config>>config.php file 
+database details (name, password and etc.) are configured in app>>config>>config.php file 
